@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Apple",
+        "image": "https://cdn3.volusion.com/kceqm.mleru/v/vspfiles/photos/283-1.jpg?1521734349"
+    },
+    {
+        "id": 2,
+        "name": "Apricot",
+        "image": "https://aryanveda.in/wp-content/uploads/2018/02/apricot.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Banana",
+        "image": "https://hips.hearstapps.com/ghk.h-cdn.co/assets/cm/15/11/54fde0086e251-banana-cranberry-holiday-bread-2486-200.jpg?crop=1xw:1.0xh;center,top&resize=*:2370"
+    },
+    {
+        "id": 4,
+        "name": "Blackberries",
+        "image": "https://d2lnr5mha7bycj.cloudfront.net/product-image/file/large_392b9858-deca-4300-8b95-40ae472dc8f2.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Blueberries",
+        "image": "https://d2lnr5mha7bycj.cloudfront.net/product-image/file/large_b06b91ce-b264-4713-909e-6d4ac42c3403.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Cherries",
+        "image": "https://www.produceforkids.com/wp-content/uploads/2017/02/cherries_0.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Lemons",
+        "image": "https://cpimg.tistatic.com/04654323/s/4/Fresh-Lemon.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Kiwi",
+        "image": "http://cdn.nexternal.com/grow/images/Organic%20Kiwi%20Grow%20Grocery%20Home%20Delivery%202.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Litchi",
+        "image": "https://img3.exportersindia.com/product_images/bc-small/2019/1/3156777/fresh-litchi-1548155408-4664358.png"
+    },
+    {
+        "id": 10,
+        "name": "Pears",
+        "image": "https://cdn3.volusion.com/kceqm.mleru/v/vspfiles/photos/439-1.jpg?1521734349"
+    },
+    {
+        "id": 11,
+        "name": "Pomegranate",
+        "image": "https://static1.squarespace.com/static/51e882f4e4b00dfa73182bbc/t/53d44e09e4b0ac63b7c2fbf3/1406422538388/pomegranate-seed-oil-page.jpg?format=500w"
+    },
+    {
+        "id": 12,
+        "name": "Pumpkins",
+        "image": "https://s3.amazonaws.com/ucdim/wp-content/uploads/20181015115542/blog-imagespumpkin.jpg"
+    }
+]
